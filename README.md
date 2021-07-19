@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi! 👋
+<div>
+  <a href="https://github.com/Anai013">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Anai013&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anai013&&layout=compact&hide=shell&theme=jolly"/>
+</div>
 
 <!--
 **Anai013/Anai013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
