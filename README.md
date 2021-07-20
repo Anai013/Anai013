@@ -1,32 +1,25 @@
-# Hi! 👋
+# Hi! (✿◕‿◕✿)
 
+<img align="left" src="https://cdn.pixabay.com/photo/2014/09/03/20/15/shoes-434918__340.jpg" style="max-width:100%;"></img><hr>
+
+## 🌟 My Skills
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="40" height="40" style="max-width:100%;"></img>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="My SQL" width="40" height="40" style="max-width:100%;"></img>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40" style="max-width:100%;"></img><hr>
+
+## 📚 Learning
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="C#" width="40" height="40" style="max-width:100%;"></img>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="40" height="40" style="max-width:100%;"></img>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java Script" width="40" height="40" style="max-width:100%;"></img>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img><hr>
+<br>
 <div>
   <a href="https://github.com/Anai013">
   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=Anai013&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anai013&&layout=compact&hide=shell&theme=jolly"/>
-</div>
- <hr></hr>
-
-## My Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="My SQL" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40" style="max-width:100%;"></img>
-<hr></hr>
-
-## Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="C#" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java Script" width="40" height="40" style="max-width:100%;"></img>
-<hr></hr>
-
-## Connect with me:
-<a href="https://https://www.linkedin.com/in/anaí/" target="_blank">
-<img align="center" alt="Anaí - linkedin" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a>
-<hr></hr>
-  
+</div><hr>
 
 <!--
 **Anai013/Anai013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,4 +34,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Connect with me
+<a href="https://https://www.linkedin.com/in/anaí/" target="_blank">
+<img alt="Anaí - linkedin" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</a><hr>
+
 -->
