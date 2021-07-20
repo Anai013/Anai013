@@ -13,9 +13,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java Script" width="40" height="40" style="max-width:100%;"></img>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img><hr>
-
-<br>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img><hr><br>
 
 <div>
   <a href="https://github.com/Anai013">
