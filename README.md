@@ -24,7 +24,7 @@
 <div align="center"> 
   <a href="https://github.com/Anai013">
   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=Anai013&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anai013&&layout=compact&hide=shell&theme=jolly"/><hr>
+  <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anai013&&layout=compact&hide=shell&theme=jolly"/>
 
   ![Snake animation](https://github.com/Anai013/Anai013/blob/output/github-contribution-grid-snake.svg)
   </div>
