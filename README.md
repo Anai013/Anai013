@@ -5,16 +5,13 @@
   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=Anai013&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anai013&&layout=compact&hide=shell&theme=jolly"/>
 </div>
-
-## Connect with me:
-<a href="https://https://www.linkedin.com/in/anaí/" target="_blank">
-<img align="center" alt="Anaí - linkedin" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a>
+ <hr></hr>
 
 ## My Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="My SQL" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="40" height="40" style="max-width:100%;"></img>
+<hr></hr>
 
 ## Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="C#" width="40" height="40" style="max-width:100%;"></img>
@@ -22,7 +19,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java Script" width="40" height="40" style="max-width:100%;"></img>
+<hr></hr>
 
+## Connect with me:
+<a href="https://https://www.linkedin.com/in/anaí/" target="_blank">
+<img align="center" alt="Anaí - linkedin" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</a>
+<hr></hr>
+  
 
 <!--
 **Anai013/Anai013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
