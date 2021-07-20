@@ -3,7 +3,6 @@
 
 <img align="left" src="https://cdn.pixabay.com/photo/2014/09/03/20/15/shoes-434918__340.jpg" style="max-width:100%;"></img>
 <br>
-<br>
 
 ## 🌟 My Skills
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="40" height="40" style="max-width:100%;"></img>
@@ -17,6 +16,7 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40" style="max-width:100%;"></img>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java Script" width="40" height="40" style="max-width:100%;"></img>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img>
+<br>
 <br>
 <br>
 <br>
