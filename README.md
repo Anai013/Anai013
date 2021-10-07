@@ -4,6 +4,7 @@ Prazer, tenho 17 anos e atualmente sou estudante do curso técnico de informáti
 
 ## ✨ My skills 
 <div style="display: inline_block">
+  <a href="https://github.com/Anai013">
   <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -12,6 +13,7 @@ Prazer, tenho 17 anos e atualmente sou estudante do curso técnico de informáti
 
 ## 📚 Learning 
 <div style="display: inline_block">
+  <a href="https://github.com/Anai013">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
