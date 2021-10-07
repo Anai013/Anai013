@@ -1,51 +1,47 @@
-## Olá, meu nome é Anaí
-<hr>
+## </> Olá, meu nome é Anaí
 
-<img align="left" src="https://cdn.pixabay.com/photo/2014/09/03/20/15/shoes-434918__340.jpg" style="max-width:50%;"></img>
+Prazer, tenho 17 anos e atualmente sou estudante do curso técnico de informática no IFSP.
+
+## ✨ My skills 
+<div style="display: inline_block">
+  <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+## 📚 Learning 
+<div style="display: inline_block">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScipt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+## 📱 Contact
+<div>
+  <a href="https://www.linkedin.com/in/anaí/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:anaivr.0113@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://t.me/anai_013" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Anai013" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Anai013" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Anai013" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Anai013" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+</div>
+  
 <br>
-
-### 🌟 My Skills
+ 
 <div align="center">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="C" width="30" height="30" style="max-width:100%;"></img>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="30" height="30" style="max-width:100%;"></img>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="My SQL" width="30" height="30" style="max-width:100%;"></img>
-<hr>
-</div>
-
-### 📚 Learning
-<div align="center">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" alt="C#" width="30" height="30" style="max-width:100%;"></img>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="30" height="30" style="max-width:100%;"></img>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="30" height="30" style="max-width:100%;"></img>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" width="30" height="30" style="max-width:100%;"></img>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Java Script" width="30" height="30" style="max-width:100%;"></img>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="30" height="30" style="max-width:100%;"></img><br><br><br><br><hr>
-</div>
-
-<div align="center"> 
   <a href="https://github.com/Anai013">
-  <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api?username=Anai013&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="167em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anai013&&layout=compact&hide=shell&theme=jolly"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anai013&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anai013&layout=compact&langs_count=7&theme=radical"/>
+    
   ![Snake animation](https://github.com/Anai013/Anai013/blob/output/github-contribution-grid-snake.svg)
-  </div>
-<!--
-**Anai013/Anai013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+ 
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## Connect with me
-<a href="https://https://www.linkedin.com/in/anaí/" target="_blank">
-<img alt="Anaí - linkedin" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</a><hr>
-
--->
