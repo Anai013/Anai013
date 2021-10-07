@@ -38,8 +38,8 @@ Prazer, tenho 17 anos e atualmente sou estudante do curso técnico de informáti
  
 <div align="center">
   <a href="https://github.com/Anai013">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anai013&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anai013&layout=compact&langs_count=7&theme=radical"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Anai013&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anai013&layout=compact&langs_count=7&theme=radical"/>
     
   ![Snake animation](https://github.com/Anai013/Anai013/blob/output/github-contribution-grid-snake.svg)
 </div>
