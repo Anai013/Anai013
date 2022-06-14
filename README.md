@@ -1,6 +1,6 @@
 ## </> Olá, meu nome é Anaí
 
-Prazer, tenho 17 anos e atualmente sou aluna do curso técnico de informática no IFSP.
+Prazer, tenho 18 anos e atualmente sou aluna do curso técnico de informática no IFSP.
 
 ## ✨ My skills 
 <div style="display: inline_block">
